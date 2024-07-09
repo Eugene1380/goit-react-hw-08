@@ -1,5 +1,5 @@
 //import background from '../image/phonebook-Brown-webp-Post.webp';
-import background from '../image/phonebook-1-removebg-preview4.png';
+// import background from '../image/phonebook-1-removebg-preview4.png';
 
 
 const styles = {
@@ -9,7 +9,7 @@ const styles = {
       alignItems: 'center',
       justifyContent: 'center',
       //backgroundImage: 'linear-gradient(to bottom, #2e2f42cc, #2e2f42e6) url(${background})',
-    backgroundImage: `url(${background})`,
+    // backgroundImage: `url(${background})`,
       // filter: 'blur(5px)',
       paddingLeft: '100px',
   },
